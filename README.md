@@ -1,4 +1,4 @@
-# OralGuard-AI  
+# DentalAI  
 ### A Deep Learning-Based Diagnostic Tool  
 
 This project focuses on developing a machine learning model to predict oral diseases using medical images. By experimenting with various state-of-the-art architectures, DenseNet emerged as the top performer, achieving an accuracy of **91.04%**.  
